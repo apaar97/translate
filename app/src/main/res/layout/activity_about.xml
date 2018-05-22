@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.apaar97.translate.AboutActivity">
+
+    <ImageView
+        android:id="@+id/about_yandex"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerVertical="true"
+        android:src="@drawable/yandex_logo"
+        android:contentDescription="TODO" />
+    <ImageView
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/translate_logo"
+        android:layout_marginRight="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_centerVertical="true"
+        android:layout_alignRight="@+id/about_yandex"
+        android:layout_alignEnd="@+id/about_yandex" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_yandex"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:layout_above="@id/about_yandex"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

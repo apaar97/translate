@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="start_buttons_width">210dp</dimen>
+    <dimen name="start_buttons_height">50dp</dimen>
+    <dimen name="translate_text_size">30sp</dimen>
+    <dimen name="chat_text_size">18sp</dimen>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Translate</string>
+    <string name="API_KEY">trnsl.1.1.20170425T085917Z.580fec9ed721d387.9caf5bd2514ca1581b95de321974dce826ef5064</string>
+    <string name="start_new_conversation">New Conversation</string>
+    <string name="start_new_translation">Text Translate</string>
+    <string name="about">About App</string>
+    <string name="about_yandex">Powered by Yandex.Translate</string>
+    <string name="new_conversation">Conversation</string>
+    <string name="new_translate">Translate</string>
+    <string name="hint_text">Tap to enter text</string>
+    <string name="no_internet_connection">No Internet Connection Available</string>
+    <string name="speech_prompt">Speak Now</string>
+    <string name="language_pack_missing">This language speech pack needs to be installed</string>
+    <string name="language_not_supported">This language speech is currently not supported</string>
+    <string name="select_matching_text">Select Matching Text</string>
+    <string name="process_tts">Switching Language</string>
+    <string name="no_text">No Text Available</string>
+</resources>

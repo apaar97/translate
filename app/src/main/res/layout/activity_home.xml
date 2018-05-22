@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/home_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.apaar97.translate.HomeActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/translate_world"/>
+    <Button
+        android:id="@+id/start_new_conversation"
+        android:layout_width="@dimen/start_buttons_width"
+        android:layout_height="@dimen/start_buttons_height"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:text="@string/start_new_conversation"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:background="@drawable/button_shape"/>
+
+    <Button
+        android:id="@+id/start_new_translation"
+        android:layout_width="@dimen/start_buttons_width"
+        android:layout_height="@dimen/start_buttons_height"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:text="@string/start_new_translation"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:background="@drawable/button_shape"/>
+
+    <Button
+        android:id="@+id/about"
+        android:layout_width="@dimen/start_buttons_width"
+        android:layout_height="@dimen/start_buttons_height"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginBottom="24dp"
+        android:text="@string/about"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:background="@drawable/button_shape"/>
+
+</LinearLayout>
