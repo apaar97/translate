@@ -1,10 +1,19 @@
-# TranslateApp
+## Translate
+
+
+![Android SDK version](https://img.shields.io/badge/Android%20SDK-%20%3E%3D%2021-blue.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/apaar97/TranslateApp.svg)
+[![GitHub issues](https://img.shields.io/github/issues/apaar97/TranslateApp.svg)](https://github.com/apaar97/TranslateApp/issues)
+[![GitHub forks](https://img.shields.io/github/forks/apaar97/TranslateApp.svg)](https://github.com/apaar97/TranslateApp/network)
+[![GitHub stars](https://img.shields.io/github/stars/apaar97/TranslateApp.svg)](https://github.com/apaar97/TranslateApp/stargazers)
+[![GitHub license](https://img.shields.io/github/license/apaar97/TranslateApp.svg?color=blue)](https://github.com/apaar97/TranslateApp/blob/master/LICENSE)
+
 Translate is an android app to translate text conversations, supporting 90 languages with built in Speech-To-Text and Text-to-Speech features for ease of accessibility.
 
 Download APK : [here](https://drive.google.com/open?id=1K6fCszUJhyBJzqRlfmsclkYVca1SNcBa)
 
 
-## Overview
+### Overview
 
 The app provides 2 modes of translation. 
 
@@ -15,13 +24,13 @@ The app provides 2 modes of translation.
 
 Yandex Translate Web API : https://translate.yandex.com/
 
-## Features
+### Features
 
 * Supports translation between any pair of 90 languages 
 * Supports accessibility features like Speech-to-Text and Text-to-Speech
 * Helpful tool to learn new languages, travel and translate on the go!
 
-## App Screenshots
+### App Screenshots
 
 **Landing Screen**
 
@@ -41,19 +50,5 @@ Yandex Translate Web API : https://translate.yandex.com/
 
 <img src="screenshots/about.png" width="200">
 
-
-## Requirements
-
-* Android SDK 21 or higher
-* Active Internet access
-
-## Contributing
-
-Any improvements, bug reports, new features or suggestions are welcome. Feel free to contribrute. :)
-
-## License
-
-Licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 : https://www.gnu.org/licenses/gpl-3.0.en.html
-Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  
 
