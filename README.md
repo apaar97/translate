@@ -4,7 +4,7 @@
 ![Maintenance status](https://img.shields.io/badge/Maintained%3F-no-red.svg?label=maintained)
 [![GitHub forks](https://img.shields.io/github/forks/apaar97/translate?style=social)](https://github.com/apaar97/translate/network)
 [![GitHub stars](https://img.shields.io/github/stars/apaar97/translate?style=social)](https://github.com/apaar97/translate/stargazers)
-[![GitHub license](https://img.shields.io/github/license/apaar97/translate.svg?color=blue)](https://github.com/apaar97/translate/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/apaar97/translate)](https://github.com/apaar97/translate/blob/master/LICENSE)
 
 *Tool to learn new languages, travel and translate on the go!*
 
